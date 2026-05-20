@@ -1,0 +1,13 @@
+numpy
+matplotlib
+seaborn
+vaderSentiment
+torch
+scikit-learn
+textblob
+emoji
+nltk
+joblib
+tqdm
+wordcloud
+langdetect
